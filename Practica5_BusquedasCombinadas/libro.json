@@ -1,0 +1,13 @@
+{
+  "cabecera": {
+    "dato": {
+      "Id": 1,
+      "nombre_libro": "Pajaritos",
+      "editorial": "Gallito",
+      "tipo": "Romance",
+      "Autor": "Mary"
+    }
+  },
+  "tamanio": 1,
+  "size": 0
+}
